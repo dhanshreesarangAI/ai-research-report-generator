@@ -1,4 +1,4 @@
-# 🤖 AI Research & Report Generator
+# AI Research & Report Generator
 
 A multi-agent pipeline system that takes a complex research request, breaks it into discrete steps, and runs it through a set of specialized agents — built with plain Python and `asyncio` (no black-box agent frameworks).
 
